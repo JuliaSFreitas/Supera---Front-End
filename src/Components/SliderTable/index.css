@@ -1,0 +1,30 @@
+.slick-slide{
+    display: block;
+}
+
+ul{
+    display: flex!important;
+    justify-content: start;
+    align-items: flex-start;
+    padding: 0 20px;
+}
+
+li{
+    list-style: none;
+    height: 100%;
+}
+
+.d{
+    padding: 5px 0;
+    width: 148px;
+}
+
+.v{
+    padding: 5px 0;
+    width: 161px;
+}
+
+.t{
+    padding: 5px 0;
+    width: 136px;
+}

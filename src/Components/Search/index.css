@@ -1,0 +1,31 @@
+form{
+    width: 700px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 30px;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 30px;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+input{
+    padding: 8px 16px;
+}
+
+input[type=submit]{
+    align-self: right;
+    padding: 4px 8px;
+}
